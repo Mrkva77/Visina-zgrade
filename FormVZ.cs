@@ -15,12 +15,19 @@ namespace Visina_Zgrade
         
         private void button1_Click(object sender, EventArgs e)
         {
-            // kreiramo objekt
-            Neboder neboder = new Neboder();
-            // upisane vrijednosti u textBox-u 1 pretvaramo u int
-            neboder.BrojKatova = Convert.ToInt32(textBox1.Text);
-            // pozivamo "funkciju" IzracunajVisinu i upisujemo ju u TextBox2
-            textBox2.Text = neboder.IzracunajVisinu(neboder.BrojKatova).ToString();
+            try
+            {
+                Neboder neboder = new Neboder(); // kreiramo objekt
+                                                 // upisane vrijednosti u textBox-u 1 pretvaramo u int
+                neboder.BrojKatova = Convert.ToInt32(textBox1.Text);
+                // pozivamo "funkciju" IzracunajVisinu i upisujemo ju u TextBox2
+                textBox2.Text = neboder.IzracunajVisinu(neboder.BrojKatova).ToString();
+            }
+            catch 
+            {
+                MessageBox.Show("Upisali ste pogrešan format!", "Greška unosa",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error );
+            }
 
         }
     }
