@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Visina_Zgrade</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Ucenik\Documents\VisinaZgrade.cs" Link="VisinaZgrade.cs" />
+    <Compile Include="C:\Users\Ucenik\Documents\VisinaZgrade\FormVZ.cs" Link="FormVZ.cs" />
+    <Compile Include="C:\Users\Ucenik\Documents\VisinaZgrade\Neboder.cs" Link="Neboder.cs" />
+    <Compile Include="C:\Users\Ucenik\Documents\VisinaZgrade\Visinazgrade.cs" Link="VisinaZgrade.cs" />
+  </ItemGroup>
+
+</Project>

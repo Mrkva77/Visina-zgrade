@@ -1,0 +1,16 @@
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\bin\Debug\net8.0-windows\Visina Zgrade.exe
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\bin\Debug\net8.0-windows\Visina Zgrade.deps.json
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\bin\Debug\net8.0-windows\Visina Zgrade.runtimeconfig.json
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\bin\Debug\net8.0-windows\Visina Zgrade.dll
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\bin\Debug\net8.0-windows\Visina Zgrade.pdb
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina_Zgrade.Form1.resources
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.AssemblyInfoInputs.cache
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.AssemblyInfo.cs
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.dll
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\refint\Visina Zgrade.dll
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.pdb
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\Visina Zgrade.genruntimeconfig.cache
+C:\Users\Ucenik\source\repos\Visina Zgrade\Visina Zgrade\obj\Debug\net8.0-windows\ref\Visina Zgrade.dll

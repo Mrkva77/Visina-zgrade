@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,11 +15,11 @@ namespace Visina_Zgrade
         public int Visina1 { get => visina; set => visina = value; }
         public int BrojKatova { get => brojKatova; set => brojKatova = value; }
 
-        // Kada se pritisne gumb onda se izraèunava visina
+        // Kada se pritisne gumb onda se izraÄunava visina
         public int IzracunajVisinu(int BrojKatova)
         {
             visina = BrojKatova * visina;
-            return visina; // vraèa varijablu visina
+            return visina; // vraÄa varijablu visina
         }
     }
 }
